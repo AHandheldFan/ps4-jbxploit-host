@@ -15,7 +15,7 @@
         <section id="downloads">
           {% if site.show_downloads %}
           {% endif %}
-          <p style="text-align: center;"><img src="./img/ps.png" alt="" /></p>
+          <a href="" style="color:#660066" class="btn _5"><span class="icon"></span>PS4 7.5x Xploit</a>
         </section>
       </div>
     </header>
